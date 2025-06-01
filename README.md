@@ -19,7 +19,7 @@ Lokales repository initialisiert:
 
 Verbindung zwischen GitHub und lokalen Repo erstellt:
 
-![Mein Screenshot](https://github.com/carstensteins/swt-esa/blob/master/images/bild1_c.png?raw=true)
+![Mein Screenshot](https://github.com/carstensteins/swt-esa/blob/master/images/bild_1c.png?raw=true)
 
 
 ## Aufgabe 2:
