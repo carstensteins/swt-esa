@@ -76,7 +76,7 @@ Zu den in Aufgabe 5 erstellten Branch habe ich noch einen zweiten erstellt und b
 
 ![Mein Screenshot](https://github.com/carstensteins/swt-esa/blob/master/images/bild5_a.png?raw=true)
 
-alle 3 vorhandenen Branches wurden von mir dann per Git Bash gewechselt und gemergt und anschließend sowie lokal als auch von GitHub wieder gelöscht
+alle 2 erstellten Branches wurden von mir dann per Git Bash gewechselt und mit dem master Branch gemergt und anschließend sowie lokal als auch von GitHub wieder gelöscht
 
 ![Mein Screenshot](https://github.com/carstensteins/swt-esa/blob/master/images/bild5_b.png?raw=true)
 
