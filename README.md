@@ -9,4 +9,4 @@ Vorgänge in dieser Aufgabe waren das Repository auf GitHub zu erstellen und das
 
 Screenshots zur Aufgabe:
 
-![Mein Screenshot](https://github.com/carstensteins/swt-esa/blob/main/images/bild1_a.png?raw=true)
+![Mein Screenshot](https://github.com/carstensteins/swt-esa/blob/master/images/bild1_a.png?raw=true)
